@@ -9,7 +9,7 @@
   <ul> <!-- Testei e não conseguir estilizar a "unordered list (ul)", por isso optei por parágrafos -->
     <p>💬 Adoro trocar ideias e aprender coisas novas.</p> 
     <p>📚 Curso Ciência da Computação (5/8).</p> 
-    <p>💼 Atualmente Estagiano na <a href="https://www.unifor.br" target="_blank">Unifor.</a></p> 
+    <p>💼 Atualmente Estagiando na <a href="https://www.unifor.br" target="_blank">Unifor.</a></p> 
     <p>🧬 Vejo a vida como uma aventura contínua e viciante.</p> 
   </ul>
 </div>
