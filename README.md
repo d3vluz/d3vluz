@@ -1,43 +1,44 @@
-<div align="center">
-  <h1>Olá, Mundo!</h1>
 
-<p>Bem-vindo(a) ao meu perfil no GitHub! Me chamo <b>Evandro Luz</b>, um(a) entusiasta da vida, meu hobbie favorito é programar, me considero explorador de tecnologias e mestre de piadas sem graça.</p>
-</div>
+# Olá, Mundo! 👋🏼​</h1>
 
-<div align="center">
-  <h2> Sobre Mim 🧐</h2>
-  <ul> <!-- Testei e não conseguir estilizar a "unordered list (ul)", por isso optei por parágrafos -->
-    <p>💬 Adoro trocar ideias e aprender coisas novas.</p> 
-    <p>📚 Curso Ciência da Computação (5/8).</p> 
-    <p>💼 Atualmente Estagiando na <a href="https://www.unifor.br" target="_blank">Unifor.</a></p> 
-    <p>🧬 Vejo a vida como uma aventura contínua e viciante.</p> 
+Bem-vindo(a) ao meu perfil no GitHub! Me chamo <b>Evandro Luz</b>, um(a) entusiasta da vida, meu hobbie favorito é programar, me considero explorador de tecnologias e mestre de piadas sem graça.
+
+## Sobre Mim 🧐
+  <ul>
+    <li>💬 Adoro trocar ideias e aprender coisas novas.</li> 
+    <li>📚 Curso Ciência da Computação (5/8).</li> 
+    <li>💼 Atualmente Estagiando na <a href="https://www.unifor.br" target="_blank">Unifor.</a></li> 
+    <li>🧬 Vejo a vida como uma aventura contínua e viciante.</li> 
   </ul>
+
+## Minhas Skills 💻
+### Linguagens e Dados
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C Sharp"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart"/></code>
+
+### DevOps
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+### Ferramentas de Desenvolvimento
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=cyan)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=cyan)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=cyan)
+![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=cyan)
+  
+<div display="in-line" align="left">
+<h3>Overall Stats</h3>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3vluz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vluz&layout=compact&langs_count=7&theme=react" />
 </div>
 
-<hr><br>
+## Redes Sociais 🌐​
+<a href="https://www.linkedin.com/in/evandro-luz-579864300/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/evandroluzjr/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
-<div display="in-line" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3vluz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vluz&layout=compact&langs_count=7&theme=react" />
-</div>
-
-<div align="center">
-  <br><img height="30" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img height="30" alt="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img height="30" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img height="30" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img height="30" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img height="30" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bootstrap/bootstrap.png">
-  <img height="30" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-  <img height="30" alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg">
-  <img height="30" alt="dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg">
-
-  <br><hr>
-  <div align="right">
-  <a href="https://www.linkedin.com/in/evandro-luz-579864300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/evandroluzjr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
-  <!--<a href="ajuste aqui" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
-</div><br>
-<br><p>Obrigado por visitar meu GitHub! Que seus códigos sejam sempre livres de bugs!</p>
-</div>
+<br><p><b>Obrigado por visitar meu GitHub! Que seus códigos sejam sempre livres de bugs!</b></p>
 
