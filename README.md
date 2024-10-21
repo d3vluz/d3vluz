@@ -32,7 +32,7 @@ Meu nome é **Evandro Luz**. Sou desenvolvedor focado em tecnologia e inovação
 </div>
 
 ## Onde Me Encontrar 🌐
-<a href="www.linkedin.com/in/evandro-luz" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/evandro-luz/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/evandroluzjr/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 <br><p><b>Obrigado por visitar meu GitHub! Que seus códigos sejam sempre livres de bugs! 🚀</b></p>
