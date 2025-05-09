@@ -7,7 +7,6 @@ Meu nome é **Evandro Luz**. Sou desenvolvedor focado em tecnologia e inovação
 
 - 💬 Adoro trocar ideias e aprender constantemente.
 - 📚 Estudante de Ciência da Computação (6º semestre).
-- 💼 Atualmente, estagiário na [Aprova AI](https://aprova-ai.com).
 - 🧬 Encaro a vida como uma aventura contínua, onde sempre há algo novo a descobrir.
 
 ## Minhas Skills 💻
