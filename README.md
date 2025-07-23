@@ -1,96 +1,90 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=CDE4AD&section=header&reversal=false&textBg=false" width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=CDE4AD&section=header&reversal=false&textBg=false" width=100%>
 
 
 <div align="center">
     <img 
         alt="HTML" 
         title="HTML"
-        width="30px" 
+        width="20px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
     />
     <img 
         alt="CSS" 
         title="CSS" 
-        width="30px" 
+        width="20px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
     <img 
         alt="JavaScript" 
         title="JavaScript" 
-        width="30px" 
+        width="20px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
     <img 
         alt="TypeScript" 
         title="TypeScript" 
-        width="30px" 
+        width="20px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
     />
     <img 
         alt="React" 
         title="React" 
-        width="30px" 
+        width="20px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
     />
     <img 
         alt="Next.js" 
         title="Next.js" 
-        width="30px" 
+        width="20px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
     />
     <img 
         alt="Tailwind" 
         title="Tailwind" 
-        width="30px" 
+        width="20px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
     />
     <img 
         alt="Python" 
         title="Python" 
-        width="30px" 
+        width="20px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
     <img 
         alt="Java" 
         title="Java" 
-        width="35px" 
+        width="25px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" 
     />
     <img 
         alt="C++" 
         title="C++" 
-        width="30px" 
+        width="20px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
     />
     <img 
         alt="C#" 
         title="C#" 
-        width="30px" 
+        width="20px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
     />
     <img 
         alt="Dart" 
         title="Dart" 
-        width="30px" 
+        width="20px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
     />
     <img 
         alt="Flutter" 
         title="Flutter" 
-        width="30px" 
+        width="20px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
     />
     <img 
         alt="Docker" 
         title="Docker" 
-        width="35px" 
+        width="25px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
-    />
-    <img 
-        alt="N8N" 
-        title="N8N" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
 </div>
 
