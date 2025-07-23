@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=CDE4AD&section=header&reversal=false&textBg=false" width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=CDE4AD&section=header&reversal=false&textBg=false" width=100%>
 
 
-<div align="center"; max-width: 150px">
+<div align="center">
     <img 
         alt="HTML" 
         title="HTML"
