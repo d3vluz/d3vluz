@@ -1,37 +1,128 @@
-# Olá, Mundo! seja bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-Meu nome é **Evandro Luz**. Sou desenvolvedor focado em tecnologia e inovação, sempre buscando novos desafios e aprimoramento constante. Tenho grande interesse em explorar diferentes áreas da programação e desenvolvimento, com ênfase em soluções eficientes e criativas.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=CDE4AD&section=header&reversal=false&textBg=false" width=100%>
 
 
-## Sobre Mim  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="20px">
-
-- 💬 Adoro trocar ideias e aprender constantemente.
-- 📚 Estudante de Ciência da Computação (6º semestre).
-- 🧬 Encaro a vida como uma aventura contínua, onde sempre há algo novo a descobrir.
-
-## Minhas Skills 💻
-### Linguagens de Programação
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart"/></code>
-
-### Ferramentas de Desenvolvimento
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=cyan)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=cyan)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=cyan)
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=cyan)
-
-## Minhas Estatísticas 📊
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3vluz&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vluz&layout=compact&langs_count=7&theme=rose_pine" />
+<div align="center"; max-width: 150px">
+    <img 
+        alt="HTML" 
+        title="HTML"
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+    <img 
+        alt="CSS" 
+        title="CSS" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+    <img 
+        alt="JavaScript" 
+        title="JavaScript" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        alt="TypeScript" 
+        title="TypeScript" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    />
+    <img 
+        alt="React" 
+        title="React" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
+    <img 
+        alt="Next.js" 
+        title="Next.js" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    />
+    <img 
+        alt="Tailwind" 
+        title="Tailwind" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    />
+    <img 
+        alt="Python" 
+        title="Python" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+    <img 
+        alt="Java" 
+        title="Java" 
+        width="35px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" 
+    />
+    <img 
+        alt="C++" 
+        title="C++" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+    />
+    <img 
+        alt="C#" 
+        title="C#" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    />
+    <img 
+        alt="Dart" 
+        title="Dart" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+    />
+    <img 
+        alt="Flutter" 
+        title="Flutter" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+    />
+    <img 
+        alt="Docker" 
+        title="Docker" 
+        width="35px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
+    />
+    <img 
+        alt="N8N" 
+        title="N8N" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
 </div>
 
-## Onde Me Encontrar 🌐
-<a href="https://www.linkedin.com/in/evandro-luz/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.instagram.com/evandroluzjr/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<br/>
+<br/>
 
-<br><p><b>Obrigado por visitar meu GitHub! Que seus códigos sejam sempre livres de bugs! 🚀</b></p>
+# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+**`Fullstack developer`** focused on innovation, creative problem-solving, and building impactful solutions. Passionate about technology, startups, and collaborative projects that push boundaries and drive real change. I believe the best way to predict the future is to create it.
+
+<a href="https://www.linkedin.com/in/evandro-luz/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-CDE4AD?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<br/>
+
+<div align="right">
+  <b>"Creativity is just connecting things"</b> <br/>
+  <p style">- Steve Jobs</p>
+</div>
+
+#
+<br/>
+
+<div align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="180em" 
+    style="margin-right: 10em;" 
+    src="https://github-readme-stats.vercel.app/api?username=d3vluz&border_color=CDE4AD&show_icons=true&icon_color=CDE4AD&title_color=83A05C&text_color=CDE4AD&bg_color=474B43&rank_icon=github&include_all_commits=true&locale=pt-br" 
+  />
+  <img  
+    alt="GitHub Stats" 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vluz&border_color=CDE4AD&show_icons=true&icon_color=CDE4AD&title_color=83A05C&text_color=CDE4AD&bg_color=474B43&layout=compact&custom_title=Tecnologias&hide=GDScript,GAP" 
+  />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=CDE4AD&section=footer&reversal=false&textBg=false" width=100%>
