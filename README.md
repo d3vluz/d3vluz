@@ -92,7 +92,7 @@
 
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-**`Fullstack developer`** focused on innovation, creative problem-solving, and building impactful solutions. Passionate about technology, startups, and collaborative projects that push boundaries and drive real change. I believe the best way to predict the future is to create it.
+**`Fullstack developer`** focused on innovation, creative problem-solving, and building impactful solutions. Passionate about technology, startups, and collaborative projects that push boundaries and drive real change.
 
 <a href="https://www.linkedin.com/in/evandro-luz/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-CDE4AD?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
