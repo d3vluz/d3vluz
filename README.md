@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=CDE4AD&section=header&reversal=false&textBg=false" width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6FC7E1&section=header&reversal=false&textBg=false" width=100%>
 
 
 <div align="center">
@@ -94,7 +94,7 @@
 
 **`Fullstack developer`** focused on innovation, creative problem-solving, and building impactful solutions. Passionate about technology, startups, and collaborative projects that push boundaries and drive real change.
 
-<a href="https://www.linkedin.com/in/evandro-luz/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-CDE4AD?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/evandro-luz/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-6FC7E1?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <br/>
 
@@ -111,11 +111,11 @@
     alt="GitHub Stats" 
     height="180em" 
     style="margin-right: 10em;" 
-    src="https://github-readme-stats.vercel.app/api?username=d3vluz&border_color=CDE4AD&show_icons=true&icon_color=CDE4AD&title_color=83A05C&text_color=CDE4AD&bg_color=474B43&rank_icon=github&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=d3vluz&border_color=6FC7E1&show_icons=true&icon_color=6FC7E1&title_color=6FC7E1&text_color=6FC7E1&bg_color=334347&rank_icon=github&include_all_commits=true&locale=pt-br" 
   />
   <img  
     alt="GitHub Stats" 
       height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vluz&border_color=CDE4AD&show_icons=true&icon_color=CDE4AD&title_color=83A05C&text_color=CDE4AD&bg_color=474B43&layout=compact&custom_title=Tecnologias&hide=GDScript,GAP" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vluz&border_color=6FC7E1&show_icons=true&icon_color=6FC7E1&title_color=6FC7E1&text_color=6FC7E1&bg_color=334347&layout=compact&custom_title=Tecnologias&hide=GDScript,GAP" 
   />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=CDE4AD&section=footer&reversal=false&textBg=false" width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6FC7E1&section=footer&reversal=false&textBg=false" width=100%>
