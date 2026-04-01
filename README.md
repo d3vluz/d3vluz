@@ -111,11 +111,11 @@
     alt="GitHub Stats" 
     height="180em" 
     style="margin-right: 10em;" 
-    src="https://github-readme-stats.vercel.app/api?username=d3vluz&border_color=6FC7E1&show_icons=true&icon_color=6FC7E1&title_color=6FC7E1&text_color=6FC7E1&bg_color=334347&rank_icon=github&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=d3vluz&border_color=6FC7E1&show_icons=true&icon_color=6FC7E1&title_color=6FC7E1&text_color=6FC7E1&bg_color=334347&rank_icon=github&include_all_commits=true&locale=pt-br" 
   />
   <img  
     alt="GitHub Stats" 
       height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vluz&border_color=6FC7E1&show_icons=true&icon_color=6FC7E1&title_color=6FC7E1&text_color=6FC7E1&bg_color=334347&layout=compact&custom_title=Tecnologias&hide=GDScript,GAP" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=d3vluz&border_color=6FC7E1&show_icons=true&icon_color=6FC7E1&title_color=6FC7E1&text_color=6FC7E1&bg_color=334347&layout=compact&custom_title=Tecnologias&hide=GDScript,GAP" 
   />
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6FC7E1&section=footer&reversal=false&textBg=false" width=100%>
