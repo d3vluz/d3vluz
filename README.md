@@ -1,3 +1,11 @@
+<div align="right">
+  <a href="README.md" title="Português"><img src="https://flagcdn.com/32x24/br.png" width="32" alt="Português" /></a>
+  &nbsp;
+  <a href="README.en.md" title="English"><img src="https://flagcdn.com/32x24/us.png" width="32" alt="English" /></a>
+  &nbsp;
+  <a href="README.fr.md" title="Français"><img src="https://flagcdn.com/32x24/fr.png" width="32" alt="Français" /></a>
+</div>
+
 <a href="https://github.com/d3vluz">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6FC7E1&section=header&reversal=false&textBg=false" width=100%>
 <a/>
@@ -10,10 +18,6 @@
     <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img alt="C++" title="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-</div>
-
-<div align="center">
-    <h3>Frameworks & Tools</h3>
     <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     <img alt="Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
@@ -22,41 +26,50 @@
 
 <br/>
 
-# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Olá, Mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-**`Fullstack developer`** focused on innovation, creative problem-solving, and building impactful solutions. Passionate about technology, startups, and collaborative projects that push boundaries and drive real change.
+**`Desenvolvedor Fullstack`** focado em inovação, resolução criativa de problemas e na construção de soluções impactantes. Apaixonado por tecnologia, startups e projetos colaborativos que expandem fronteiras e geram mudanças reais.
 
 <a href="https://www.linkedin.com/in/evandro-luz/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0353A4?style=for-the-badge)</a>
 <a href="https://d3vluz.github.io" target="_blank">![Currículo](https://img.shields.io/badge/-Currículo-003559?style=for-the-badge)</a>
-<!-- <a href="" target="_blank">![Portfolio](https://img.shields.io/badge/-Portfolio-061A40?style=for-the-badge)</a> -->
+<!-- <a href="" target="_blank">![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-061A40?style=for-the-badge)</a> -->
 
 <br/>
 
 <div align="right">
-  <b>"Creativity is just connecting things"</b> <br/>
+  <b>"A criatividade é apenas conectar coisas"</b> <br/>
   <p>- Steve Jobs</p>
 </div>
 
 #
 <br/>
 
-<div align="center">
-  <a href="https://github.com/d3vluz">
-    <img 
-      alt="GitHub Stats" 
-      height="180em" 
-      style="margin-right: 10em;" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=d3vluz&border_color=6FC7E1&show_icons=true&icon_color=6FC7E1&title_color=6FC7E1&text_color=6FC7E1&bg_color=334347&rank_icon=github&include_all_commits=true&locale=pt-br" 
-    />
-  </a>
-  <a href="https://github.com/d3vluz">
-    <img  
-      alt="GitHub Stats" 
-      height="180em" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=d3vluz&border_color=6FC7E1&show_icons=true&icon_color=6FC7E1&title_color=6FC7E1&text_color=6FC7E1&bg_color=334347&layout=compact&custom_title=Tecnologias&hide=GDScript,GAP" 
-    />
-  </a>
-</div>
+<details>
+  <summary><b>Mais sobre mim</b></summary>
+  <br/>
+  <table width="100%">
+    <tr>
+      <td width="70%" valign="top">
+        <h4>Sobre</h4>
+        <p>
+          Desenvolvedor Fullstack com mais de 3 anos de experiência. Minha jornada com programação começou cedo,
+          ainda criança, criando bots e automações para jogar <b>Tibia</b>. Essa curiosidade sobre como a tecnologia
+          resolve problemas é o que ainda me move hoje. Trabalho principalmente com <b>React Native (Expo)</b>,
+          <b>React</b>, <b>Next.js</b> e <b>FastAPI</b>, e também desenvolvo automações com <b>n8n</b>.
+        </p>
+        <h4>Formação</h4>
+        <p>
+          🎓 <b>Bacharelado em Ciência da Computação</b> <br/>
+          <sub>IFCE · 2022.1 – 2022.2</sub> <br/>
+          <sub>UNIFOR · 2022.2 – 2026.2</sub>
+        </p>
+      </td>
+      <td width="30%" align="center" valign="middle">
+        <img src="assets/evandro.jpeg" width="210" alt="Evandro" />
+      </td>
+    </tr>
+  </table>
+</details>
 
 <a href="https://github.com/d3vluz">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6FC7E1&section=footer&reversal=false&textBg=false" width=100%>
